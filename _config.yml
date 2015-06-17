@@ -13,18 +13,18 @@ baseurl: /
 #lsi: true
 
 # Disqus Comments
-disqus_short_name: hahaya
+disqus_short_name: tanxiaoxian
 disqus_show_comment_count: true
 
 # site
-title: hahaya's blog
-url: http://hahaya.github.com
+title: tanxiaoxian's blog
+url: http://tanxiaoxian.github.com
 feed: /atom.xml
 
 # color scheme
 highlight: light
 
 # author
-author_name: hahaya
-author_email: hahayacoder@gmail.com
-author_info: <a href="http://hahaya.github.com">hahaya</a>
+author_name: tanxiaoxian
+author_email: tanxiaoxiancoder@gmail.com
+author_info: <a href="http://tanxiaoxian.github.com">tanxiaoxian</a>
